@@ -6,9 +6,7 @@ This branch of the repository contains the code of the app at the end of exercis
 
 ## Exercise 1 - Download the Branch's Zip
 
-1. Click the *branches* drop down, and select `code-ex7-build-and-deploy`.
-
-2. Click the *Code* drop down, and select `Download ZIP`.
+1. Click the *Code* drop down, and select `Download ZIP`.
 
 ## Exercise 2 - Project Cleanup in SAP Business Application Studio
 
@@ -43,6 +41,11 @@ This branch of the repository contains the code of the app at the end of exercis
     ```CLI
     npm install
     ```
+
+## Exercise 4 - Return to Exercise 8
+
+Click [here](https://github.com/SAP-samples/teched2020-DEV161/tree/main/exercises/ex8).
+
 
 ## Summary
 
