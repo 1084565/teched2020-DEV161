@@ -44,14 +44,10 @@ This branch of the repository contains the code of the app at the end of exercis
     npm install
     ```
 
-## Exercise 4 - Return to Exercise 8
-
-Click [here](https://github.com/SAP-samples/teched2020-DEV161/tree/main/exercises/ex8).
-
-
-## Summary
+## Summary and Return to Exercise 8
 
 You're good to go with exercise 8 "Apply CI/CD to SAP Fiori Development on SAP Cloud Platform - GitHub Setup" in the `main` branch.
+Click [here](https://github.com/SAP-samples/teched2020-DEV161/tree/main/exercises/ex8).
 
 ## License
 Copyright (c) 2020 SAP SE or an SAP affiliate company. All rights reserved. This file is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE](LICENSES/Apache-2.0.txt) file.
