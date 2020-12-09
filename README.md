@@ -14,8 +14,10 @@ This branch of the repository contains the code of the app at the end of exercis
 
 2. Select *projects*, and click *Open*.
 
-3. Right click and folder in the workspace, and click *delete*. Click *OK* when the dialog that asks "Do you really want to delete data?" pops up.
+3. Delete all folders in the *projects* workspace. For each folder: Right click the folder, and click *delete*. Click *OK* when the dialog that asks "Do you really want to delete data?" pops up.
     >There should be only two folders: *products-inventory* and *data*.
+    
+    >You can select or deselect multiple folders by pressing [CTRL] + clicking a folder. You can then delete all selected folders by pressing the [DELETE] button.
 
 ## Exercise 3 - Upload the Code to SAP Business Application Studio
 
